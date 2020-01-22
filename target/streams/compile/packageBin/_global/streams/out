@@ -1,0 +1,21 @@
+[debug] Packaging C:\Users\Alexandr\IdeaProjects\Test1\target\scala-2.13\test1_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  C:\Users\Alexandr\IdeaProjects\Test1\target\scala-2.13\classes
+[debug] 	Main$.class
+[debug] 	  C:\Users\Alexandr\IdeaProjects\Test1\target\scala-2.13\classes\Main$.class
+[debug] 	Main.class
+[debug] 	  C:\Users\Alexandr\IdeaProjects\Test1\target\scala-2.13\classes\Main.class
+[debug] 	META-INF
+[debug] 	  C:\Users\Alexandr\IdeaProjects\Test1\target\scala-2.13\classes\META-INF
+[debug] 	META-INF\Test1.kotlin_module
+[debug] 	  C:\Users\Alexandr\IdeaProjects\Test1\target\scala-2.13\classes\META-INF\Test1.kotlin_module
+[debug] 	student
+[debug] 	  C:\Users\Alexandr\IdeaProjects\Test1\target\scala-2.13\classes\student
+[debug] 	student\Point$.class
+[debug] 	  C:\Users\Alexandr\IdeaProjects\Test1\target\scala-2.13\classes\student\Point$.class
+[debug] 	student\Point.class
+[debug] 	  C:\Users\Alexandr\IdeaProjects\Test1\target\scala-2.13\classes\student\Point.class
+[debug] 	student\Student.class
+[debug] 	  C:\Users\Alexandr\IdeaProjects\Test1\target\scala-2.13\classes\student\Student.class
+[debug] Done packaging.
